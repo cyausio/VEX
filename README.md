@@ -9,4 +9,6 @@ Created by the main programmer of team 6724C (Daniel Shin). As the team determin
 
 Note that detailed code description is provided in readme of each folder
 
-## Architectural Theory of Driver Control
+## Driver Control Programming Theory
+
+## Autonomous Programming Theory
