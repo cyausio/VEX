@@ -11,4 +11,10 @@ Note that detailed code description is provided in readme of each folder
 
 ## Driver Control Programming Theory
 
+
+
 ## Autonomous Programming Theory
+
+## Image Sources:
+* https://help.vex.com/article/91-how-the-v5-controller-improves-the-user-experience
+* https://www.vexrobotics.com/joysticks.html
