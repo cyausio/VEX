@@ -15,7 +15,8 @@ As shown in the image below, there are currently two types of controllers: the o
 
 ![1](assets/joysticks.png)
 
-As noticed, there are two manipulatable sticks which both have the x and y axis on each controller. Furthermore, there are 8 buttons on the controller as well as 4 more additional buttons that are not shown in the images. These 4 additional buttons are located on the top of the controller, and are more readily accessible compared to the 8 "standard" buttons. The typical uses of these controls follow as below:
+As noticed, there are two manipulatable sticks which both have the x and y axis on each controller. Furthermore, there are 8 buttons on the controller as well as 4 more additional buttons that are not shown in the images. These 4 additional buttons are located on the top of the controller, and are more readily accessible compared to the 8 "standard" buttons.  
+The typical uses of these controls follow as below:
 
 * The rotatable sticks are typically utilized for manipulating the drive chain, or wheels. The reason is because it is possible to manipulate different speeds so that movement can be more smooth.
 * The top 4 buttons are the primary go-to buttons for VEX programming, as they typically can be manipulated simultaneously with the sticks as well.
