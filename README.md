@@ -29,7 +29,7 @@ For us, we normally utilized function-programmed keys, so that each button will 
   
 For instance, in the In The Zone season, we had several buttons that ran tasks to control the intake rollers (the intake rollers ran purely autonomously), and we developed methods so that each task wouldn't override each other to create errors in the program.  
   
-*likewise, when programming, we prioritized simplicity and accessibility even when we had to give up on some functionality.
+*likewise, when programming, we prioritized simplicity and accessibility even when we had to give up on some functionality on driving the robot. 
 
 ## Autonomous Programming Theory
 
